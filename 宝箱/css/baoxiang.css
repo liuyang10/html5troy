@@ -1,0 +1,176 @@
+body{
+	margin:0;
+	background-color: #ffffd5;
+}
+img{
+	width: 100%;
+	height: 100%;
+}
+.box{
+	width: 10.0rem;
+	margin:0 auto;
+}
+
+.header{
+	height: 2.133333rem;
+	font-size: 0.533333rem;
+	text-align: center;
+	line-height: 2.133333rem;
+}
+
+.top{
+	width: 8.684444rem;
+	padding-left: 0.622222rem;
+}
+.top p{
+	font-size: 0.497778rem;
+	margin-bottom: 0.266667rem;
+	color: #e60012;
+}
+.top ul{
+	width: 8.684444rem;
+    height: 3.735556rem;
+	overflow: hidden;
+	color: white;
+}
+.top li{
+	width: 4.222222rem;
+	height: 1.715556rem;
+	background-color: #fa3530;
+	float: left;
+	margin:0 0.24rem 0.24rem 0;
+	border-radius: 10px;
+	padding-left: 1.644444rem;
+	box-sizing: border-box;
+}
+.top li:nth-child(2n){
+    margin-right: 0;
+}
+.top li:nth-child(1){
+    background-image:url("../img/images/bao_07.png");
+    background-repeat: no-repeat;
+    background-size: 0.995556rem 1.191111rem;
+    background-position: 0.231111rem 0.266667rem;
+}
+.top li:nth-child(2){
+    background-image:url("../img/images/bao01.png");
+    background-repeat: no-repeat;
+    background-size: 0.995556rem 0.968889rem;
+    background-position: 0.231111rem 0.266667rem;
+}
+.top li:nth-child(3){
+    background-image:url("../img/images/bao_11.png");
+    background-repeat: no-repeat;
+    background-size: 1.235556rem 1.235556rem;
+    background-position: 0.231111rem 0.266667rem;
+    text-align: center;
+    font-size: 0.426667rem;
+    line-height: 1.715556rem;
+}
+.top li:nth-child(4){
+    background: none;
+    border: 2px dashed #f9a09e;
+    padding-left:0;
+    text-align: center;
+    font-size: 0.426667rem;
+    line-height: 1.715556rem;
+    color:#f9a09e;
+}
+.hongbao{
+	display: block;
+    font-size: 0.426667rem;
+    padding-top: 0.266667rem;
+}
+.rmb{
+	font-size: 0.426667rem;
+}
+.number{
+	font-size: 0.835556rem;
+	font-family: Arial;
+}
+.mb{
+	font-size: 0.426667rem;
+}
+.center{
+	width: 100%;
+	background-color: #f51829;
+	margin-top: 0.248889rem;
+	position: relative;
+	overflow: hidden;
+}
+.center p{
+	height: 1.288889rem;
+	font-size: 0.497778rem;
+	font-family: 黑体-简;
+	line-height: 1.288889rem;
+	color: white;
+	text-indent: 0.711111rem;
+}
+.center span{
+    font-size: 0.622222rem;
+    color:#fff000;
+}
+#lunbo{
+	height: 2.177778rem;
+	overflow: hidden;
+	padding-left: 0.48rem;
+	position: relative;
+	left: 0;
+	transition: all linear 0.7s;
+}
+#lunbo li{
+	width: 2.968889rem;
+	height: 2.4rem;
+	float: left;
+	background:url("../img/images/xiao_14.png") 2.4rem 0.355556rem no-repeat;
+	background-size: 0.56rem 0.56rem;
+}
+#lunbo img{
+	width: 100%;
+	height: 100%;
+}
+#san{
+	width: 0.684444rem;
+	height: 0.808889rem;
+	position: absolute;
+	top: 1.777778rem;
+	right: 0;
+}
+#dian{
+	width: 0.995556rem;
+	margin:0 auto;
+}
+.dianb{
+	width: 0.222222rem;
+	height: 0.222222rem;
+	display: inline-block;
+	background:url("../img/images/dian_23.png") no-repeat;
+	background-size: 100% 100%;
+}
+.dianh{
+	width: 0.222222rem;
+	height: 0.222222rem;
+	display: inline-block;
+	background:url("../img/images/dian_21.png") no-repeat;
+	background-size: 100% 100%;
+}
+.bottom{
+	height: 6.711111rem;
+    padding-left: 0.888889rem;
+    margin-top: 0.195556rem;
+   
+}
+.bottom li{
+	 width:8.595556rem;
+	 height: 1.244444rem;
+	 margin-bottom: 0.222222rem;
+}
+.bottom li:nth-child(1){
+    width:5.466667rem;
+}
+.bottom img{
+	width: 100%;
+	height: 100%;
+
+}
+
